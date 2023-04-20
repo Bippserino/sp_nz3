@@ -1,0 +1,3 @@
+Nagradni zadatak za kolegij Sistemsko programiranje
+
+Napraviti sistemski program koji će periodički (svakih 5 minuta) prikupljati informacije o korištenju CPU, zauzetosti memorije, korištenju diska i diskovnog prostora, te korištenje mrežnog prometa i sve te informacije zapisivati u odgovarajuću log datoteku pod nazivom 'out.xml' (ili 'out.json'). Zapisati treba vremenski trenutak, te nakon toga sve ostale prikupljene informacije u XML ili JSON formatu koji student treba sam osmisliti. Program ne treba imati nikakvo grafičko sučelje.
